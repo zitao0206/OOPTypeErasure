@@ -22,6 +22,17 @@ class Example08: CommonOpsProtocol {
         for element in anyDic {
             print(element)
         }
+        
+        let anyArr1 = YourAnySequence(arr)
+        for element in anyArr1 {
+            print(element)
+        }
+
+        let anyDic1 = YourAnySequence(dic)
+
+        for element in anyDic1 {
+            print(element)
+        }
 
     }
 }
