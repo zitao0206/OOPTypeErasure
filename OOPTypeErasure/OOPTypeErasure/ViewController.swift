@@ -17,8 +17,20 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let ex04 = Example04()
-        ex04.testCase()
+//        let ex04 = Example04()
+//        ex04.testCase()
+//        
+//        let ex05 = Example05()
+//        ex05.testCase()
+//        
+//        let ex06 = Example06()
+//        ex06.testCase()
+//        
+//        let ex07 = Example07()
+//        ex07.testCase()
+        
+        let ex08 = Example08()
+        ex08.testCase()
     }
 }
 

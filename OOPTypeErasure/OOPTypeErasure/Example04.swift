@@ -15,7 +15,7 @@ class Example04: CommonOpsProtocol {
             value.printValue()
         }
     }
-}
+} 
 
 protocol Printable {
     func printValue()
@@ -43,4 +43,4 @@ struct AnyPrintable {
     func printValue() {
         printFunction()
     }
-}
+} 

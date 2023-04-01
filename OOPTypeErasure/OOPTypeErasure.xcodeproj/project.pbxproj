@@ -18,6 +18,10 @@
 		D845ACAE29D8177900CDDECB /* Example02.swift in Sources */ = {isa = PBXBuildFile; fileRef = D845ACAD29D8177900CDDECB /* Example02.swift */; };
 		D845ACB029D8189200CDDECB /* Example03.swift in Sources */ = {isa = PBXBuildFile; fileRef = D845ACAF29D8189200CDDECB /* Example03.swift */; };
 		D845ACB229D818FC00CDDECB /* Example04.swift in Sources */ = {isa = PBXBuildFile; fileRef = D845ACB129D818FC00CDDECB /* Example04.swift */; };
+		D845ACB429D8250200CDDECB /* Example05.swift in Sources */ = {isa = PBXBuildFile; fileRef = D845ACB329D8250200CDDECB /* Example05.swift */; };
+		D845ACB629D859D500CDDECB /* Example06.swift in Sources */ = {isa = PBXBuildFile; fileRef = D845ACB529D859D500CDDECB /* Example06.swift */; };
+		D845ACB829D85F5200CDDECB /* Example07.swift in Sources */ = {isa = PBXBuildFile; fileRef = D845ACB729D85F5200CDDECB /* Example07.swift */; };
+		D845ACBA29D863F900CDDECB /* Example08.swift in Sources */ = {isa = PBXBuildFile; fileRef = D845ACB929D863F900CDDECB /* Example08.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +38,10 @@
 		D845ACAD29D8177900CDDECB /* Example02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example02.swift; sourceTree = "<group>"; };
 		D845ACAF29D8189200CDDECB /* Example03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example03.swift; sourceTree = "<group>"; };
 		D845ACB129D818FC00CDDECB /* Example04.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example04.swift; sourceTree = "<group>"; };
+		D845ACB329D8250200CDDECB /* Example05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example05.swift; sourceTree = "<group>"; };
+		D845ACB529D859D500CDDECB /* Example06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example06.swift; sourceTree = "<group>"; };
+		D845ACB729D85F5200CDDECB /* Example07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example07.swift; sourceTree = "<group>"; };
+		D845ACB929D863F900CDDECB /* Example08.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example08.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +82,10 @@
 				D845ACAD29D8177900CDDECB /* Example02.swift */,
 				D845ACAF29D8189200CDDECB /* Example03.swift */,
 				D845ACB129D818FC00CDDECB /* Example04.swift */,
+				D845ACB329D8250200CDDECB /* Example05.swift */,
+				D845ACB529D859D500CDDECB /* Example06.swift */,
+				D845ACB729D85F5200CDDECB /* Example07.swift */,
+				D845ACB929D863F900CDDECB /* Example08.swift */,
 				D845AC9B29D8173A00CDDECB /* Main.storyboard */,
 				D845AC9E29D8173C00CDDECB /* Assets.xcassets */,
 				D845ACA029D8173C00CDDECB /* LaunchScreen.storyboard */,
@@ -155,8 +167,12 @@
 			files = (
 				D845AC9A29D8173A00CDDECB /* ViewController.swift in Sources */,
 				D845AC9629D8173A00CDDECB /* AppDelegate.swift in Sources */,
+				D845ACBA29D863F900CDDECB /* Example08.swift in Sources */,
 				D845ACB229D818FC00CDDECB /* Example04.swift in Sources */,
 				D845ACAE29D8177900CDDECB /* Example02.swift in Sources */,
+				D845ACB629D859D500CDDECB /* Example06.swift in Sources */,
+				D845ACB829D85F5200CDDECB /* Example07.swift in Sources */,
+				D845ACB429D8250200CDDECB /* Example05.swift in Sources */,
 				D845ACAC29D8176B00CDDECB /* Example01.swift in Sources */,
 				D845ACAA29D8175A00CDDECB /* Example00.swift in Sources */,
 				D845AC9829D8173A00CDDECB /* SceneDelegate.swift in Sources */,
